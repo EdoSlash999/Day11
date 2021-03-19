@@ -7,6 +7,7 @@ var temps = [
 ];
 
 function myArrayFunction(arr) {
+  
   var newTemps = [...arr];
   var averageDayTemp = [];
   var suma;

@@ -1,4 +1,5 @@
 function multiplyArrayFunction(myArray) {
+    
     var arr = [];
     var sum = 0;
     var product = 1;

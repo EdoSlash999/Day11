@@ -3,7 +3,7 @@ function largestNumFromArr(arr){
     for (var i = 0; i < arr.length; i++){
         var maxNum = 0;
         for (var j = 0; j < arr[i].length; j++){
-            if (maxNum < arr[i][j]){
+            if (maxNum < arr[i][j]) {
                 maxNum = arr[i][j];
             }
     

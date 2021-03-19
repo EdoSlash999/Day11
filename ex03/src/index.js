@@ -1,6 +1,7 @@
 var myPetsArray = ["Dog", "Cat"];
 
 function myArrayFunction(myPets) {
+  
   var myNewPets = [...myPets];
   myNewPets.push("Bird", "Fish");
   var firstPet = myNewPets.shift();

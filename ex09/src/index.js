@@ -1,6 +1,5 @@
 function myBouncer(arr) {
     
-
     return arr.filter(Boolean);
 }
 
